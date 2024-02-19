@@ -25,3 +25,19 @@ header {
 .riga_colorata{
     background-color: aquamarine;
 }
+
+.imgtext1{
+    color: rgb(255, 255, 255);
+    border-top: 0;
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+}
+
+.imgtext2{
+    color: rgb(255, 255, 255);
+    border-top: 0;
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+}
